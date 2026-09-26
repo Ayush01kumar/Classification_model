@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+matplotlib
+# optional, only for 05_xgboost_library_demo.py and part (b) of 04_verify_against_sklearn.py:
+xgboost
