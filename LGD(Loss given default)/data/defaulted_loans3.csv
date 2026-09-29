@@ -1,0 +1,4 @@
+customer,age,income_k,loan_type,EAD,collateral_value,t_years,recovery,cost
+1,21,20,unsecured_personal,100000,0,1.0,25000,5000
+3,25,35,secured_auto,300000,250000,0.333,180000,15000
+4,27,30,secured_mortgage,500000,600000,1.5,550000,40000
