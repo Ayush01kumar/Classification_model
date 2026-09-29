@@ -1,0 +1,4 @@
+customer,age,income_k,limit_ref,drawn_ref,limit_default,drawn_default,months_to_default
+1,21,20,50000,20000,50000,48000,12
+3,25,35,100000,60000,100000,95000,12
+4,27,30,200000,150000,200000,180000,12
